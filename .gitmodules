@@ -1,0 +1,6 @@
+[submodule "js"]
+	path = js
+	url = git@github.com:rdroro/js.git
+[submodule "turtl-docker"]
+	path = turtl-docker
+	url = https://github.com/ArthurGarnier/turtl-docker.git
